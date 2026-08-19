@@ -87,8 +87,7 @@ O ESP32 interpreta a posição do joystick e envia comandos para o carrinho.
 |---|---:|---:|---:|---|
 | Motor esquerdo | ≈ 7,0 cm | ≈ 2,2 cm | ≈ 2,2 cm | Fixado ao chassi de acrílico com suportes plásticos e parafusos |
 | Motor direito | ≈ 7,0 cm | ≈ 2,2 cm | ≈ 2,2 cm | Fixado ao chassi de acrílico com suportes plásticos e parafusos |
-| Arduino Mega 2560 | ≈ 10,1 cm | ≈ 5,4 cm | ≈ 1,5 cm | Fixado ao chassi utilizando espaçadores e parafusos nos furos da placa |
-| Joystick Shield | ≈ 7,0 cm | ≈ 5,4 cm | ≈ 2,5 cm | Encaixado diretamente sobre os pinos do microcontrolador compatível ou fixado em suporte próprio |
-| Ponte H L298N | ≈ 4,3 cm | ≈ 4,3 cm | ≈ 2,7 cm | Fixada ao chassi com parafusos através dos quatro furos existentes na placa |
-| Suporte de bateria | A confirmar | A confirmar | A confirmar | Fixado ao chassi com parafusos, abraçadeiras ou fita dupla face de alta aderência |
-| Sensor de proximidade | A confirmar | A confirmar | A confirmar | Fixado na parte frontal do chassi através de suporte e parafusos |
+| ESP32 | ≈ 10,1 cm | ≈ 5,4 cm | ≈ 1,5 cm | Fixado ao chassi utilizando fita dupla face |
+| Joystick Shield | ≈ 7,0 cm | ≈ 5,4 cm | ≈ 2,5 cm | Encaixado diretamente sobre os pinos do microcontrolador compatível |
+| Ponte H | ≈ 4,3 cm | ≈ 4,3 cm | ≈ 2,7 cm | Fixada ao chassi com fita dupla face |
+| Sensor de proximidade | ≈ 4,5 cm | ≈ 2,0 cm | ≈ 1,2 cm | Fixado na parte frontal do chassi através de suporte e parafusos |
