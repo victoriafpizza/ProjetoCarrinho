@@ -4,6 +4,13 @@ Projeto de um **carrinho robô 4WD controlado remotamente**, desenvolvido utiliz
 
 O objetivo do projeto é desenvolver um robô móvel capaz de receber comandos de movimentação remotamente, controlar quatro motores e identificar obstáculos através de um sensor de proximidade.
 
+## 👥 Integrantes do Grupo
+
+- **Gabriel Machado** — RM 99880
+- **Lourenzo Ramos** — RM 99951
+- **Vitor Hugo Rodrigues** — RM 97758
+- **Victoria Franceschini** — RM 550609
+
 ---
 
 ## 🎯 Objetivo do Projeto
