@@ -6,9 +6,6 @@ O objetivo do projeto é desenvolver um robô móvel capaz de receber comandos d
 
 ## 👥 Integrantes do Grupo
 
-- **Gabriel Machado** — RM 99880
-- **Lourenzo Ramos** — RM 99951
-- **Vitor Hugo Rodrigues** — RM 97758
 - **Victoria Franceschini** — RM 550609
 
 ---
